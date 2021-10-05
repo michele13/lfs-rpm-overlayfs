@@ -1,0 +1,3 @@
+%HBL_TGT armv7l-hbl-linux-gnueabihf
+%LFS /mnt
+%CONFIGARM --with-arch-directory=arm --with-float=hard -with-fpu=vfpv4
