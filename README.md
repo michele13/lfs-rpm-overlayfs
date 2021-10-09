@@ -49,7 +49,7 @@ fi
 Then I run my building scripts.....
 
 I have sudo installed in the build system so I can build the rpm as
-<user> then sudo `rpm -Uvh --nodeps RPMS/armv7hnl/<rpm-fliepsec>` to
+\<user\> then `sudo rpm -Uvh --nodeps RPMS/armv7hnl/\<rpm-fliepsec\>` to
 install.
 
 I have developed this "system" over many years.
